@@ -1,12 +1,4 @@
 {
-   "version": 2,
-   "name": "fiverr-api",
-   "builds": [
-      {
-         "src": "server.js",
-         "use": "@vercel/node"
-      }
-   ],
    "rewrites": [
       {
          "source": "/(.*)",
